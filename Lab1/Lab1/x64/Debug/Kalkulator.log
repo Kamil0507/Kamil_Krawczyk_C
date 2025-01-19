@@ -1,0 +1,7 @@
+﻿  Kalkulator.c
+C:\Users\kamil\source\repos\Kalkulator\Kalkulator\Kalkulator.c(64,27): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kamil\source\repos\Kalkulator\Kalkulator\Kalkulator.c(65,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kamil\source\repos\Kalkulator\Kalkulator\Kalkulator.c(66,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kamil\source\repos\Kalkulator\Kalkulator\Kalkulator.c(69,22): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kamil\source\repos\Kalkulator\Kalkulator\Kalkulator.c(70,27): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  Kalkulator.vcxproj -> C:\Users\kamil\source\repos\Kalkulator\x64\Debug\Kalkulator.exe
